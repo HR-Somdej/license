@@ -1,0 +1,17 @@
+{
+  "name": "SOMDEJ License · ติดตามใบประกอบวิชาชีพ",
+  "short_name": "License",
+  "description": "ติดตามใบอนุญาตประกอบวิชาชีพและใบรับรองบุคลากร รพ.สมเด็จพระบรมราชเทวี ณ ศรีราชา",
+  "lang": "th",
+  "start_url": "./index.html?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F2F8F6",
+  "theme_color": "#0B3B37",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
